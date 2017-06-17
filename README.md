@@ -1,5 +1,8 @@
 # PSCT-db
+
 Made a repo for the sake of keeping track of PSCT
+
+Download here: http://www.mediafire.com/file/thalpai2d7ypm02/PSCT-db.cdb
 
 # TCG-OCG ruling conflicts
 Symbol of Friendship
